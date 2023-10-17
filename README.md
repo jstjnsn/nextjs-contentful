@@ -2,6 +2,13 @@
 
 I wanted to see how NextJS works in combination with Contentful. At work we also use Contentful but we don't use NextJS and I thought it would be interesting to try, so here goes.
 
+## Links
+
+I used the following guides:
+
+- https://vercel.com/guides/integrating-next-js-and-contentful-for-your-headless-cms
+- https://vercel.com/templates/next.js/nextjs-blog-draft-mode
+
 ## Project setup
 
 1. Create the NextJS project: `npx create-next-app --example cms-contentful nextjs-contentful`
